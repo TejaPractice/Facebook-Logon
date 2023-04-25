@@ -1,3 +1,5 @@
+This is the code admendment
+
 import javax.swing.*;  
 import java.awt.*;  
   
@@ -9,7 +11,7 @@ class NewPage extends JFrame
     {  
         setDefaultCloseOperation(javax.swing.  
         WindowConstants.DISPOSE_ON_CLOSE);  
-        setTitle("Welcome");  
+        setTitle("Welcome to the new era of cloud computing");  
         setSize(400, 200);  
     }  
 }
